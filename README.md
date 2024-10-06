@@ -1,8 +1,8 @@
 # Chủ đề bài tập lớn: Game đặt bom
 
-<b>Thành viên nhóm:</b> <h6>- Ngô Đình Khánh: B21DCCN066 <br>
+<b>Thành viên nhóm:</b> <br>- Ngô Đình Khánh: B21DCCN066 <br>
                             - Tạ Văn Chiến  : B21DCCN021 <br>
-                            - Lê Anh Tuấn   : B21DCCN756 </h6>
+                            - Lê Anh Tuấn   : B21DCCN756 
 
 <b>Mô tả ngắn gọn:</b> Trò chơi đặt bom là trò chơi nhiều người chơi, mỗi người chơi sẽ phải tận dụng những quả bom của mình và các vật phẩm ngẫu nhiên trên bản đồ để tiêu diệt đối thủ
 
